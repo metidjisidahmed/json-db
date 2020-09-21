@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      "image": "images/uthappizza.png",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sade-4349a.appspot.com/o/uthappizza.png?alt=media&token=b1990fef-45bc-4a21-a679-c2a73135ffe6",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
@@ -13,7 +13,7 @@
     {
       "id": 1,
       "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sade-4349a.appspot.com/o/zucchipakoda.png?alt=media&token=a7ccd1b2-3e94-4e78-8750-acf37eae5916",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
@@ -23,7 +23,7 @@
     {
       "id": 2,
       "name": "Vadonut",
-      "image": "images/vadonut.png",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sade-4349a.appspot.com/o/vadonut.png?alt=media&token=6cb4405a-3558-4625-8319-ad177b251b45",
       "category": "appetizer",
       "label": "New",
       "price": "1.99",
@@ -33,7 +33,7 @@
     {
       "id": 3,
       "name": "ElaiCheese Cake",
-      "image": "images/elaicheesecake.png",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sade-4349a.appspot.com/o/elaicheesecake.png?alt=media&token=ebe91788-4fbf-4d2a-9309-f7490a1c3c21",
       "category": "dessert",
       "label": "",
       "price": "2.99",
@@ -207,7 +207,7 @@
     {
       "id": 0,
       "name": "Weekend Grand Buffet",
-      "image": "images/buffet.png",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sade-4349a.appspot.com/o/buffet.png?alt=media&token=bde1dbf6-b927-48b0-98d8-677e6a02fa0a",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -218,7 +218,7 @@
     {
       "id": 0,
       "name": "Peter Pan",
-      "image": "images/alberto.png",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sade-4349a.appspot.com/o/alberto.png?alt=media&token=2f610b8d-6d6b-4aa0-b971-b54876621f11",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
@@ -227,7 +227,7 @@
     {
       "id": 1,
       "name": "Dhanasekaran Witherspoon",
-      "image": "images/alberto.png",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sade-4349a.appspot.com/o/alberto.png?alt=media&token=2f610b8d-6d6b-4aa0-b971-b54876621f11",
       "designation": "Chief Food Officer",
       "abbr": "CFO",
       "featured": false,
@@ -236,7 +236,7 @@
     {
       "id": 2,
       "name": "Agumbe Tang",
-      "image": "images/alberto.png",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sade-4349a.appspot.com/o/alberto.png?alt=media&token=2f610b8d-6d6b-4aa0-b971-b54876621f11",
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
@@ -245,7 +245,7 @@
     {
       "id": 3,
       "name": "Alberto Somayya",
-      "image": "images/alberto.png",
+      "image": "https://firebasestorage.googleapis.com/v0/b/sade-4349a.appspot.com/o/alberto.png?alt=media&token=2f610b8d-6d6b-4aa0-b971-b54876621f11",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
